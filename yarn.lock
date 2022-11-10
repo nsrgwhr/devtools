@@ -1071,7 +1071,7 @@
     "@docsearch/css" "3.0.0"
     algoliasearch "^4.0.0"
 
-"@electron/get@^1.0.1":
+"@electron/get@^1.13.0":
   version "1.14.1"
   resolved "https://registry.yarnpkg.com/@electron/get/-/get-1.14.1.tgz#16ba75f02dffb74c23965e72d617adc721d27f40"
   integrity sha512-BrZYyL/6m0ZXz/lDxy/nlVhQz+WF+iPS6qXolEU8atw7h6v1aYkjwJZ63m+bJMBTxDE66X+r2tPS4a/8C82sZw==
@@ -2465,10 +2465,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-13.13.52.tgz#03c13be70b9031baaed79481c0c0cfb0045e53f7"
   integrity sha512-s3nugnZumCC//n4moGGe6tkNMyYEdaDBitVjwPxXmR5lnMG5dHePinH2EdxkG3Rh1ghFHHixAG4NJhpJW1rthQ==
 
-"@types/node@^14.6.2":
-  version "14.18.12"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.18.12.tgz#0d4557fd3b94497d793efd4e7d92df2f83b4ef24"
-  integrity sha512-q4jlIR71hUpWTnGhXWcakgkZeHa3CCjcQcnuzU8M891BAWA2jHiziiWEPEkdS5pFsz7H9HJiy8BrK7tBRNrY7A==
+"@types/node@^16.11.26":
+  version "16.18.3"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.18.3.tgz#d7f7ba828ad9e540270f01ce00d391c54e6e0abc"
+  integrity sha512-jh6m0QUhIRcZpNv7Z/rpN+ZWXOicUUQbSoWks7Htkbb9IjFQj4kzcX/xFCkjstCj5flMsN8FiSvt+q+Tcs4Llg==
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.1"
@@ -4852,13 +4852,13 @@ electron-to-chromium@^1.4.76:
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.84.tgz#2700befbcb49c42c4ee162e137ff392c07658249"
   integrity sha512-b+DdcyOiZtLXHdgEG8lncYJdxbdJWJvclPNMg0eLUDcSOSO876WA/pYjdSblUTd7eJdIs4YdIxHWGazx7UPSJw==
 
-electron@^12.0.6:
-  version "12.2.3"
-  resolved "https://registry.yarnpkg.com/electron/-/electron-12.2.3.tgz#d426a7861e3c722f92c32153f11f7bbedf65b000"
-  integrity sha512-B27c7eqx1bC5kea6An8oVhk1pShNC4VGqWarHMhD47MDtmg54KepHO5AbAvmKKZK/jWN7NTC7wyCYTDElJNtQA==
+electron@^18.3.7:
+  version "18.3.7"
+  resolved "https://registry.yarnpkg.com/electron/-/electron-18.3.7.tgz#a22a23d63811d067c8e33abc5674122408319265"
+  integrity sha512-SDvX0VYejR1xw9PrJyvnyiDcuIhdzFVaA1NaRN2LEWXr5R6mEFl8NVTM+i5dtxMm2SHP/FPnkvmsWZs6MHijqg==
   dependencies:
-    "@electron/get" "^1.0.1"
-    "@types/node" "^14.6.2"
+    "@electron/get" "^1.13.0"
+    "@types/node" "^16.11.26"
     extract-zip "^1.0.3"
 
 elegant-spinner@^1.0.1:
